@@ -1,0 +1,50 @@
+nav ul li{color:red;
+  display:inline;
+  margin-left:10px;
+  margin-right:10px;
+  text-align:center;
+  color:rgb(179,0,59);
+  font-size:16px;
+  font-family: 'Zen Dots', cursive;
+  
+}
+nav ul li a{
+  text-decoration:none;
+  
+  
+}
+nav ul{
+  background-color:tomato;
+  border-style:solid;
+  border-color:rgb(153,0,51);
+  border-width:2px;
+  border-radius:10px;
+}
+
+
+h1{
+  color:blue;
+  text-align:center;
+}
+
+h2{
+  color:black;
+  text-align:center;
+}
+
+iframe{
+   display: block; margin: auto;
+}
+
+p{
+  margin-left:10%;
+  margin-right:10%;
+  text-align:justify;
+  font-size:20px;
+}
+
+.caption{
+  font-style:italic;
+  font-size:15px;
+  text-align:center;
+}
